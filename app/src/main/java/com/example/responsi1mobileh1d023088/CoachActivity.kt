@@ -46,11 +46,11 @@ class CoachActivity : AppCompatActivity() {
                 val contractStart = coach.contract?.start ?: "Unknown"
                 val contractUntil = coach.contract?.until ?: "Unknown"
 
-                binding.tvFullName.text = "$firstName $lastName"
-                binding.tvName.text = name
-                binding.tvDateOfBirth.text = dob
-                binding.tvNationality.text = nationality
-                binding.tvContract.text = "From $contractStart to $contractUntil"
+                binding.tvFullName.text = "$name"
+                binding.tvName.text = "Nama Depan: $firstName Nama Belakang: $lastName"
+                binding.tvDateOfBirth.text = "Tanggal Lahir: $dob"
+                binding.tvNationality.text = "Kebangsaan: $nationality"
+                binding.tvContract.text = "Kontrak dari $contractStart hingga $contractUntil"
 
             }.onFailure { e ->
                 e.printStackTrace()

@@ -6,7 +6,8 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".CoachActivity">
+    tools:context=".CoachActivity"
+    android:background="@color/lightyellow">
 
     <ScrollView
         android:layout_width="0dp"
@@ -23,7 +24,7 @@
             android:padding="16dp">
 
             <ImageView
-                android:id="@+id/tvCoach"
+                android:id="@+id/imgCoach"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 android:layout_marginTop="20dp"
@@ -35,8 +36,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                app:cardCornerRadius="5dp"
-                app:cardElevation="4dp">
+                app:cardCornerRadius="20dp"
+                app:cardElevation="0dp"
+                android:backgroundTint="@color/lightblue">
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -48,7 +50,7 @@
                         android:id="@+id/tvFullName"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:textSize="18sp"
+                        android:textSize="20sp"
                         android:textStyle="bold"
                         android:text="Full Name"/>
 
