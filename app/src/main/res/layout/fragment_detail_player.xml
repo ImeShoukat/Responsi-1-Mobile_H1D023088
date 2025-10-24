@@ -1,0 +1,80 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_rounded"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/tvPlayerName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        tools:text="Player Name" />
+
+    <TextView
+        android:id="@+id/tvPosition"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:gravity="left"
+        android:textSize="16sp"
+        android:textColor="@android:color/darker_gray"
+        tools:text="Position" />
+
+    <TextView
+        android:id="@+id/tvNationality"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:gravity="left"
+        android:textSize="16sp"
+        android:textColor="@android:color/darker_gray"
+        tools:text="Nationality" />
+
+    <TextView
+        android:id="@+id/tvDateOfBirth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:gravity="left"
+        android:textSize="16sp"
+        android:textColor="@android:color/darker_gray"
+        tools:text="Date of Birth" />
+
+    <TextView
+        android:id="@+id/tvShirtNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:gravity="left"
+        android:textSize="16sp"
+        android:textColor="@android:color/darker_gray"
+        tools:text="Shirt Number" />
+
+    <TextView
+        android:id="@+id/tvMarketValue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:gravity="left"
+        android:textSize="16sp"
+        android:textColor="@android:color/darker_gray"
+        tools:text="Market Value" />
+
+    <TextView
+        android:id="@+id/tvContract"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="16sp"
+        android:textColor="@android:color/darker_gray"
+        tools:text="Contract" />
+
+</LinearLayout>
