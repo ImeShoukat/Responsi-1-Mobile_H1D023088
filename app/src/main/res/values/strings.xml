@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Portsmouth FC</string>
+    <string name="welcome_text">
+        Sejarah Portsmouth FC
+    </string>
+
+    <string name="app_desc">
+        Portsmouth FC adalah klub sepak bola profesional asal kota Portsmouth, Inggris, yang berdiri pada tahun 1898. Klub ini bermarkas di Fratton Park dan memiliki julukan "Pompey". Portsmouth pernah meraih dua gelar Liga Inggris (1949 dan 1950) serta dua Piala FA (1939 dan 2008). Klub ini dikenal memiliki basis suporter yang sangat loyal dan atmosfer stadion yang bersejarah. Saat ini Portsmouth berkompetisi di EFL Championship (divisi kedua Liga Inggris).
+    </string>
+
+    <string name="club_history">
+        Portsmouth Football Club, yang akrab dikenal dengan sebutan Pompey, adalah klub sepak bola profesional asal Inggris yang didirikan pada 5 April 1898 di kota pelabuhan Portsmouth, Hampshire. Klub ini memainkan pertandingan pertamanya pada tahun 1899 di kompetisi Southern League sebelum akhirnya bergabung dengan English Football League pada tahun 1920. Sepanjang masa awal berdirinya, Portsmouth berkembang sebagai klub yang mewakili identitas masyarakat pelabuhan yang pekerja keras, dengan dukungan loyal dari komunitas lokal. Stadion mereka, Fratton Park, menjadi salah satu stadion klasik tertua di Inggris yang masih digunakan hingga saat ini.
+        \n\nMasa kejayaan Portsmouth terjadi pada akhir 1940-an hingga awal 1950-an, ketika mereka berhasil meraih gelar juara First Division—kompetisi tertinggi sepak bola Inggris sebelum era Premier League—secara beruntun pada musim 1948/49 dan 1949/50. Prestasi tersebut menjadikan Portsmouth sebagai salah satu kekuatan utama sepak bola Inggris pada era pasca Perang Dunia II. Selain itu, Pompey juga meraih FA Cup pertama pada tahun 1939, dan uniknya, mereka memegang trofi tersebut selama tujuh tahun karena kompetisi sepak bola dihentikan sementara akibat Perang Dunia II.
+        \n\nMemasuki era sepak bola modern, Portsmouth kembali menarik perhatian publik ketika berhasil promosi ke Premier League pada tahun 2003 di bawah kepemilikan Milan Mandarić dan kepelatihan Harry Redknapp. Setelah beberapa musim solid di kasta tertinggi, klub mencapai puncak kejayaan modern mereka dengan menjuarai FA Cup tahun 2008 setelah mengalahkan Cardiff City lewat gol tunggal Nwankwo Kanu di final. Namun, tak lama setelah keberhasilan tersebut, Portsmouth terjerat masalah finansial serius akibat pengelolaan buruk dan pergantian pemilik yang tidak stabil. Hal ini membuat klub terdegradasi berturut-turut hingga jatuh ke League Two serta mengalami kebangkrutan dan masuk masa administration.
+        \n\nMeski mengalami masa kelam, Portsmouth berhasil bangkit kembali berkat dukungan luar biasa dari suporternya. Pada tahun 2013, klub diselamatkan oleh Pompey Supporters’ Trust, organisasi yang membuat Portsmouth menjadi salah satu klub Inggris yang sempat dimiliki oleh para fans. Stabilitas klub kembali terjaga ketika pada tahun 2017, kepemilikan klub beralih ke The Tornante Company milik mantan CEO Disney, Michael Eisner. Sejak itu, Portsmouth terus membangun kembali kejayaannya secara bertahap. Klub berhasil meraih gelar League Two 2016/17 dan kemudian promosi ke EFL Championship pada musim 2024/25, menandai kembalinya mereka menuju level kompetisi yang lebih tinggi. Perjalanan Portsmouth FC menjadi salah satu kisah paling menarik dalam sejarah sepak bola Inggris—kisah tentang kejayaan, kehancuran, dan kebangkitan kembali berkat loyalitas para pendukungnya.
+    </string>
+
+    <string name="back">
+        Kembali ke Beranda
+    </string>
+
+    <string name="history">
+        Club History
+    </string>
+
+    <string name="headclub">
+        Head Club
+    </string>
+
+    <string name="team">
+        Team Squad
+    </string>
+
+
+</resources>
